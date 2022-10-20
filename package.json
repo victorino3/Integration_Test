@@ -1,0 +1,23 @@
+{
+  "name": "integration-test",
+  "version": "1.0.0",
+  "description": "Integration Test with SinonJS",
+  "main": "api.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorino3/Integration_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorino3/Integration_Test/issues"
+  },
+  "homepage": "https://github.com/victorino3/Integration_Test#readme",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}
